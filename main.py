@@ -1,6 +1,6 @@
 from groq import Groq
 
-client = Groq(api_key="YOUR-GROQ-API-KEY")
+client = Groq(api_key="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")
 messages = []
 
 while True:
